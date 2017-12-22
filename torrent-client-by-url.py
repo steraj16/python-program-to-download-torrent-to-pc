@@ -1,5 +1,9 @@
 # source:
 # https://stackoverflow.com/questions/6051877/loading-magnet-link-using-rasterbar-libtorrent-in-python
+#
+# ATTENTION: This is only a example of to use a python bind of torrent library in Python for educational purposes.
+#            I am not responsible for your download of illegal content or without permission.
+#            Please respect the laws license permits of your country.
 
 import libtorrent as lt
 import time
